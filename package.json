@@ -8,13 +8,6 @@
     "build": "yarn tsc --build --clean && tsc -m ES6",
     "app": "yarn ts-node app.ts"
   },
-  "exports": {
-    ".": {
-      "default": {
-        "default": "./lib/Supra.js"
-      }
-    }
-  },
   "author": "",
   "license": "ISC",
   "dependencies": {
