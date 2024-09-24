@@ -16,5 +16,10 @@
     "lib": ["DOM", "ES2017"],
     "outDir": "lib"
   },
+    "ts-node": {
+    "compilerOptions": {
+      "module": "commonjs"
+    }
+  },
   "include": ["src/**/*"]
 }
