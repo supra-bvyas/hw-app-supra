@@ -1,5 +1,5 @@
 {
-  "name": "hw-supra",
+  "name": "supra/hw-app-aptos",
   "version": "1.0.0",
   "description": "Ledger Hardware Wallet Supra Application API",
   "main": "lib/Supra.js",
